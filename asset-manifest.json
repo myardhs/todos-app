@@ -1,0 +1,13 @@
+{
+  "main.css": "/todos-app/static/css/main.92a8c167.chunk.css",
+  "main.js": "/todos-app/static/js/main.69e00bfb.chunk.js",
+  "main.js.map": "/todos-app/static/js/main.69e00bfb.chunk.js.map",
+  "static/js/1.06de8261.chunk.js": "/todos-app/static/js/1.06de8261.chunk.js",
+  "static/js/1.06de8261.chunk.js.map": "/todos-app/static/js/1.06de8261.chunk.js.map",
+  "runtime~main.js": "/todos-app/static/js/runtime~main.2629e991.js",
+  "runtime~main.js.map": "/todos-app/static/js/runtime~main.2629e991.js.map",
+  "static/css/main.92a8c167.chunk.css.map": "/todos-app/static/css/main.92a8c167.chunk.css.map",
+  "index.html": "/todos-app/index.html",
+  "precache-manifest.0593bca2c9021e60dcc4227eac9ca0e5.js": "/todos-app/precache-manifest.0593bca2c9021e60dcc4227eac9ca0e5.js",
+  "service-worker.js": "/todos-app/service-worker.js"
+}
